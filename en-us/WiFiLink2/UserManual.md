@@ -18,6 +18,7 @@ Set the Channel to 161 and the Video Codec to h265.
 ### Auxiliary Tools Links
 
 OTG Cable Reference Link:https://item.jd.com/10087520840342.html#crumb-wrap
+
 8812AU Wireless Adapter Reference Link:https://item.taobao.com/item.htm?id=597898122636
 
 ## FAQ
