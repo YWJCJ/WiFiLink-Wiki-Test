@@ -18,6 +18,7 @@ https://github.com/OpenIPC/PixelPilot/releases
 ### 辅助工具链接
 
 OTG连接线参考链接：https://item.jd.com/10087520840342.html#crumb-wrap
+
 8812AU无线网卡参考链接：https://item.taobao.com/item.htm?id=597898122636
 
 ## 常见问题（FAQ）
