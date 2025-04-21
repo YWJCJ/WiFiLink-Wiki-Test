@@ -13,7 +13,7 @@
 When installing the WiFiLink 2 on the aircraft, pay attention to the following two points:
 
 - **Antenna Layout:** Ensure that the two tail antennas are fully spread apart to avoid entanglement and reduce signal interference.
-- **天线方向：** Point the antennas upward to avoid obstructions from the fuselage or battery, ensuring optimal signal performance.
+- **Antenna Orientation:** Point the antennas upward to avoid obstructions from the fuselage or battery, ensuring optimal signal performance.
 
 ![3](image/3.png ':size=60%')
 
