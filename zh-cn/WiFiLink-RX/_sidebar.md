@@ -1,6 +1,8 @@
 <!-- docs/_sidebar.md -->
-WiFiLink-RX
+**WiFiLink-RX**
 
 * [产品介绍](zh-cn/WiFiLink-RX/WiFiLink-RX)
-* [使用说明——RubyFPV](zh-cn/WiFiLink-RX/RubyFPV)
-* [使用说明——OpenIPC](zh-cn/WiFiLink-RX/OpenIPC)
+* [连接天空端](zh-cn/WiFiLink-RX/AirUnit)
+* [系统刷写](zh-cn/WiFiLink-RX/SystemFlashing)
+* [RubyFPV 常见问题](zh-cn/WiFiLink-RX/RubyFPV)
+* [OpenIPC 常见问题](zh-cn/WiFiLink-RX/OpenIPC)
