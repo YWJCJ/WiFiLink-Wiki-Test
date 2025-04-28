@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
-WiFiLink
+**WiFiLink**
 
 * [Product Introduction](en-us/WiFiLink/WiFiLink)
-* [User Manua](en-us/WiFiLink/UserManual)
+* [User Manual](en-us/WiFiLink/UserManual)
+* [FAQ](en-us/WiFiLink/FAQ)

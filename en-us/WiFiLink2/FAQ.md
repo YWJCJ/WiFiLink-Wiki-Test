@@ -1,4 +1,4 @@
-# FAQ
+# WiFiLink FAQ
 
 ## How to Flash WiFiLink 2
 
