@@ -1,6 +1,8 @@
 <!-- docs/_sidebar.md -->
-WiFiLink-RX
+**WiFiLink-RX**
 
 * [Product Introduction](en-us/WiFiLink-RX/WiFiLink-RX)
-* [User Manual——RubyFPV](en-us/WiFiLink-RX/RubyFPV)
-* [User Manual——OpenIPC](en-us/WiFiLink-RX/OpenIPC)
+* [Connecting to Air Unit](en-us/WiFiLink-RX/AirUnit)
+* [System Flashing](zh-cn/WiFiLink-RX/SystemFlashing)
+* [FAQ——OpenIPC](en-us/WiFiLink-RX/OpenIPC)
+* [FAQ——RubyFPV](en-us/WiFiLink-RX/RubyFPV)
